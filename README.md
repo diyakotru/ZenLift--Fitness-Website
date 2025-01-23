@@ -8,7 +8,8 @@ ZenLift is a responsive gym website designed to inspire fitness and health. Buil
 - **Join Us Section**: Encourages visitors to become part of the ZenLift community.  
 
 ## Demo 📸  
-![image](https://github.com/user-attachments/assets/58399f1a-8e21-4d39-9bb8-d6bed190f837)
+![image](https://github.com/user-attachments/assets/eabe9514-43eb-479f-bb4c-c1cf79ef7b53)
+
  
 
 ## Technologies Used 🛠️  
